@@ -1,0 +1,403 @@
+[
+  {
+    "key": "6045dc507c0e0ea9440aff7f",
+    "creationDate": "2021-03-08T08:12:00.001Z",
+    "payDate": "2021-03-08T08:12:05.379Z",
+    "state": "PS_ABORTED",
+    "payedToId": "5aa14ce4a53e0603d0447b94",
+    "fiat": {
+      "amount": "10.00",
+      "currency": "FC_EURO"
+    },
+    "crypto": {
+      "amount": "0.00024122",
+      "currency": "CC_BITCOIN"
+    }
+  },
+  {
+    "key": "6045dc2b7c0e0ea9440aff7c",
+    "creationDate": "2021-03-08T08:11:23.675Z",
+    "payDate": "2021-03-08T08:11:28.305Z",
+    "state": "PS_ABORTED",
+    "payedToId": "5aa14ce4a53e0603d0447b94",
+    "fiat": {
+      "amount": "10.00",
+      "currency": "FC_EURO"
+    },
+    "crypto": {
+      "amount": "0.00024122",
+      "currency": "CC_BITCOIN"
+    }
+  },
+  {
+    "key": "6045d41f7c0e0ea9440aff79",
+    "creationDate": "2021-03-08T07:37:03.835Z",
+    "payDate": "2021-03-08T15:14:28.751Z",
+    "state": "PS_ABORTED",
+    "payedToId": "5aa14ce4a53e0603d0447b94",
+    "fiat": {
+      "amount": "123.00",
+      "currency": "FC_EURO"
+    },
+    "crypto": {
+      "amount": "0.00296238",
+      "currency": "CC_BITCOIN"
+    }
+  },
+  {
+    "key": "6034c187bcd91000476d2586",
+    "creationDate": "2021-02-23T08:49:11.210Z",
+    "state": "PS_RUNNING",
+    "payedToId": "5aa14ce2a53e0603d0447b93",
+    "fiat": {
+      "amount": "555.00",
+      "currency": "FC_EURO"
+    },
+    "crypto": {
+      "amount": "0.01418906",
+      "currency": "CC_BITCOIN"
+    }
+  },
+  {
+    "key": "6034c0d5bcd91000476d2583",
+    "creationDate": "2021-02-23T08:46:13.220Z",
+    "state": "PS_RUNNING",
+    "payedToId": "5aa14ce4a53e0603d0447b94",
+    "fiat": {
+      "amount": "123.00",
+      "currency": "FC_EURO"
+    },
+    "crypto": {
+      "amount": "0.00315321",
+      "currency": "CC_BITCOIN"
+    }
+  },
+  {
+    "key": "6034bda4bcd91000476d2580",
+    "creationDate": "2021-02-23T08:32:36.025Z",
+    "state": "PS_RUNNING",
+    "payedToId": "5aa14ce4a53e0603d0447b94",
+    "fiat": {
+      "amount": "12.00",
+      "currency": "FC_EURO"
+    },
+    "crypto": {
+      "amount": "0.00030628",
+      "currency": "CC_BITCOIN"
+    }
+  },
+  {
+    "key": "6033a82baf1a3a7c2681f4e9",
+    "creationDate": "2021-02-22T12:48:43.461Z",
+    "state": "PS_RUNNING",
+    "payedToId": "5aa14ce4a53e0603d0447b94",
+    "fiat": {
+      "amount": "4532.00",
+      "currency": "FC_EURO"
+    },
+    "crypto": {
+      "amount": "0.1044764",
+      "currency": "CC_BITCOIN"
+    }
+  },
+  {
+    "key": "602ccedd65e9c464594acefe",
+    "creationDate": "2021-02-17T08:07:57.107Z",
+    "payDate": "2021-02-22T12:02:21.067Z",
+    "state": "PS_ABORTED",
+    "payedToId": "5aa14ce4a53e0603d0447b94",
+    "fiat": {
+      "amount": "200.00",
+      "currency": "FC_EURO"
+    },
+    "crypto": {
+      "amount": "1.12315819",
+      "currency": "CC_LITECOIN"
+    }
+  },
+  {
+    "key": "602bcc1fd15c661557b8f4a8",
+    "creationDate": "2021-02-16T13:43:59.881Z",
+    "payDate": "2021-02-17T08:07:47.060Z",
+    "state": "PS_ABORTED",
+    "payedToId": "5aa14ce4a53e0603d0447b94",
+    "fiat": {
+      "amount": "10.00",
+      "currency": "FC_EURO"
+    },
+    "crypto": {
+      "amount": "0.00024899",
+      "currency": "CC_BITCOIN"
+    }
+  },
+  {
+    "key": "5c052cab4e2aa10076ba0117",
+    "creationDate": "2018-12-03T13:16:27.202Z",
+    "payDate": "2018-12-03T13:20:11.836Z",
+    "state": "PS_FINISHED",
+    "payedToId": "5aa14ce2a53e0603d0447b93",
+    "fiat": {
+      "amount": "532.42",
+      "currency": "FC_USDOLLAR"
+    },
+    "crypto": {
+      "amount": "0.00987650",
+      "currency": "CC_BITCOIN"
+    }
+  },
+  {
+    "key": "5c04f3f54e2aa10076ba0108",
+    "creationDate": "2018-12-03T09:14:29.291Z",
+    "payDate": "2018-12-03T09:16:07.666Z",
+    "state": "PS_FINISHED",
+    "payedToId": "5aa14ce2a53e0603d0447b93",
+    "fiat": {
+      "amount": "1515.03",
+      "currency": "FC_USDOLLAR"
+    },
+    "crypto": {
+      "amount": "0.02810429",
+      "currency": "CC_BITCOIN"
+    }
+  },
+  {
+    "key": "5c04f0ca4e2aa10076ba0103",
+    "creationDate": "2018-12-03T09:00:58.280Z",
+    "payDate": "2018-12-03T09:03:12.624Z",
+    "state": "PS_FINISHED",
+    "payedToId": "5aa14ce2a53e0603d0447b93",
+    "fiat": {
+      "amount": "967.37",
+      "currency": "FC_CADOLLAR"
+    },
+    "crypto": {
+      "amount": "0.01417892",
+      "currency": "CC_BITCOIN"
+    }
+  },
+  {
+    "key": "5c04ef6d4e2aa10076ba00fe",
+    "creationDate": "2018-12-03T08:55:09.730Z",
+    "payDate": "2018-12-03T08:57:07.390Z",
+    "state": "PS_FINISHED",
+    "payedToId": "5aa14ce2a53e0603d0447b93",
+    "fiat": {
+      "amount": "682.53",
+      "currency": "FC_CADOLLAR"
+    },
+    "crypto": {
+      "amount": "0.01000390",
+      "currency": "CC_BITCOIN"
+    }
+  },
+  {
+    "key": "5c04edc24e2aa10076ba00f9",
+    "creationDate": "2018-12-03T08:48:01.999Z",
+    "payDate": "2018-12-03T08:50:18.968Z",
+    "state": "PS_FINISHED",
+    "payedToId": "5aa14ce2a53e0603d0447b93",
+    "fiat": {
+      "amount": "538.57",
+      "currency": "FC_USDOLLAR"
+    },
+    "crypto": {
+      "amount": "0.00999070",
+      "currency": "CC_BITCOIN"
+    }
+  },
+  {
+    "key": "5c0022c7941b600188fe27ac",
+    "creationDate": "2018-11-29T17:32:55.174Z",
+    "payDate": "2018-11-29T17:35:16.186Z",
+    "state": "PS_FINISHED",
+    "payedToId": "5aa14ce4a53e0603d0447b94",
+    "fiat": {
+      "amount": "533.23",
+      "currency": "FC_EURO"
+    },
+    "crypto": {
+      "amount": "0.01172925",
+      "currency": "CC_BITCOIN"
+    }
+  },
+  {
+    "key": "5c001e0e941b600188fe27a9",
+    "creationDate": "2018-11-29T17:12:46.668Z",
+    "payDate": "2018-11-29T17:21:02.372Z",
+    "state": "PS_ABORTED",
+    "payedToId": "5aa14ce4a53e0603d0447b94",
+    "fiat": {
+      "amount": "3.69",
+      "currency": "FC_CADOLLAR"
+    },
+    "crypto": {
+      "amount": "0.01263215",
+      "currency": "CC_DASH"
+    }
+  },
+  {
+    "key": "5c001d6d941b600188fe27a6",
+    "creationDate": "2018-11-29T17:10:05.862Z",
+    "payDate": "2018-11-29T17:11:21.186Z",
+    "state": "PS_ABORTED",
+    "payedToId": "5aa14ce4a53e0603d0447b94",
+    "fiat": {
+      "amount": "2.73",
+      "currency": "FC_EURO"
+    },
+    "crypto": {
+      "amount": "0.01403166",
+      "currency": "CC_DASH"
+    }
+  },
+  {
+    "key": "5c001879941b60015599df60",
+    "creationDate": "2018-11-29T16:48:57.822Z",
+    "payDate": "2018-11-29T16:51:21.515Z",
+    "state": "PS_FINISHED",
+    "payedToId": "5aa14ce4a53e0603d0447b94",
+    "fiat": {
+      "amount": "119.92",
+      "currency": "FC_EURO"
+    },
+    "crypto": {
+      "amount": "0.00263771",
+      "currency": "CC_BITCOIN"
+    }
+  },
+  {
+    "key": "5c001644941b60015599df5c",
+    "creationDate": "2018-11-29T16:39:32.144Z",
+    "payDate": "2018-11-29T16:40:03.130Z",
+    "state": "PS_ABORTED",
+    "payedToId": "5aa14ce4a53e0603d0447b94",
+    "fiat": {
+      "amount": "4.56",
+      "currency": "FC_EURO"
+    },
+    "crypto": {
+      "amount": "0.02344187",
+      "currency": "CC_DASH"
+    }
+  },
+  {
+    "key": "5c001622941b60015599df59",
+    "creationDate": "2018-11-29T16:38:58.061Z",
+    "payDate": "2018-11-29T16:39:08.189Z",
+    "state": "PS_ABORTED",
+    "payedToId": "5aa14ce4a53e0603d0447b94",
+    "fiat": {
+      "amount": "194.6",
+      "currency": "FC_EURO"
+    },
+    "crypto": {
+      "amount": "1.00014932",
+      "currency": "CC_DASH"
+    }
+  },
+  {
+    "key": "5c000346941b600134c72eec",
+    "creationDate": "2018-11-29T15:18:30.454Z",
+    "payDate": "2018-11-29T15:20:14.792Z",
+    "state": "PS_FINISHED",
+    "payedToId": "5aa14ce4a53e0603d0447b94",
+    "fiat": {
+      "amount": "581.92",
+      "currency": "FC_EURO"
+    },
+    "crypto": {
+      "amount": "0.01280009",
+      "currency": "CC_BITCOIN"
+    }
+  },
+  {
+    "key": "5c0002de941b600134c72ee8",
+    "creationDate": "2018-11-29T15:16:46.919Z",
+    "payDate": "2018-11-29T15:20:12.559Z",
+    "state": "PS_FINISHED",
+    "payedToId": "5aa14ce4a53e0603d0447b94",
+    "fiat": {
+      "amount": "635.9",
+      "currency": "FC_CADOLLAR"
+    },
+    "crypto": {
+      "amount": "0.00932055",
+      "currency": "CC_BITCOIN"
+    }
+  },
+  {
+    "key": "5bffd9f2941b60000db6c52d",
+    "creationDate": "2018-11-29T12:22:10.693Z",
+    "payDate": "2018-11-29T12:24:07.986Z",
+    "state": "PS_FINISHED",
+    "payedToId": "5aa14ce2a53e0603d0447b93",
+    "fiat": {
+      "amount": "1332.47",
+      "currency": "FC_CADOLLAR"
+    },
+    "crypto": {
+      "amount": "0.01953028",
+      "currency": "CC_BITCOIN"
+    }
+  },
+  {
+    "key": "5bffd8eb941b60000db6c528",
+    "creationDate": "2018-11-29T12:17:47.493Z",
+    "payDate": "2018-11-29T12:20:25.229Z",
+    "state": "PS_FINISHED",
+    "payedToId": "5aa14ce2a53e0603d0447b93",
+    "fiat": {
+      "amount": "978.79",
+      "currency": "FC_CADOLLAR"
+    },
+    "crypto": {
+      "amount": "0.01434625",
+      "currency": "CC_BITCOIN"
+    }
+  },
+  {
+    "key": "5bffd7cc941b60000db6c524",
+    "creationDate": "2018-11-29T12:13:00.934Z",
+    "payDate": "2018-11-29T12:17:06.897Z",
+    "state": "PS_FINISHED",
+    "payedToId": "5aa14ce2a53e0603d0447b93",
+    "fiat": {
+      "amount": "237.19",
+      "currency": "FC_EURO"
+    },
+    "crypto": {
+      "amount": "0.00521727",
+      "currency": "CC_BITCOIN"
+    }
+  },
+  {
+    "key": "5bffd68f941b60000db6c520",
+    "creationDate": "2018-11-29T12:07:43.018Z",
+    "payDate": "2018-11-29T12:11:06.721Z",
+    "state": "PS_FINISHED",
+    "payedToId": "5aa14ce2a53e0603d0447b93",
+    "fiat": {
+      "amount": "3789.8",
+      "currency": "FC_EURO"
+    },
+    "crypto": {
+      "amount": "0.08336214",
+      "currency": "CC_BITCOIN"
+    }
+  },
+  {
+    "key": "5bffd648941b60000db6c51d",
+    "creationDate": "2018-11-29T12:06:32.017Z",
+    "payDate": "2018-11-29T12:07:32.708Z",
+    "state": "PS_ABORTED",
+    "payedToId": "5aa14ce2a53e0603d0447b93",
+    "fiat": {
+      "amount": "69521.58",
+      "currency": "FC_EURO"
+    },
+    "crypto": {
+      "amount": "1.52922835",
+      "currency": "CC_BITCOIN"
+    }
+  }
+]
