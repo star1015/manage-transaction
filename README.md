@@ -1,6 +1,6 @@
 ## Transaction React Application
 
-**Frontend**: React, Typescript, Ant Design()
+**Frontend**: React, Typescript, Ant Design(https://ant.design/docs/react/introduce)
 
 **Backend**: Fake API with static JSON
 
